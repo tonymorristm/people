@@ -16,4 +16,5 @@ var locations = [
   { name: 'Mike Cochran', origin: 'Memphis, TN', latitude: 35.15497509873826, longitude: -90.01109898090363, slack_handle: 'vongrippen' },
   { name: 'Forrest Williams', origin: 'Memphis, TN', latitude: 35.036800, longitude: -89.823446, slack_handle: 'serroft' },
   { name: 'George Spake', origin: 'Memphis, TN', latitude: 35.1182222, longitude: -90.0053115, slack_handle: 'gpspake' }
+  { name: 'Tony Morris', origin: 'Fulton County, GA', latitude: 33.8034, longitude: -84.3963, slack_handle: "tonymorristm"},
 ];
